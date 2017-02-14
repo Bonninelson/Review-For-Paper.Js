@@ -23,6 +23,7 @@ body {
     .a {
         grid-column: col1-start / col3-start;
         grid-row: row1-start ;}
+
 ul {
     list-style-type: none;
     margin: 0;
