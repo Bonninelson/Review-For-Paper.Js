@@ -7,7 +7,7 @@ body {
     grid-gap: 10px;
         grid-template-columns: [col1-start] 300px  [col2-start] 300px  [col3-start] 300px [col3-end];
         grid-template-rows: [row1-start] 500px [row2-start] 500px [row2-end];
-        background-color: ##e9967a;
+        background-color: #e9967a;
         color: #8fbc8f;
     }
 
