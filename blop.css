@@ -1,7 +1,7 @@
 body {
   margin: 40px;
 }
-.b .text {color:#e9967a;}
+.b {color:#e9967a;}
 .wrapper {
         display: grid;
     grid-gap: 10px;
