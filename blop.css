@@ -50,11 +50,11 @@ li:last-child {
 }
 
 li a.active {
-    background-color: #cd7f32;
+    background-color: #e32636;
     color: white;
 }
 
 li a:hover:not(.active) {
-    background-color: #36454f;
+    background-color: #e32636;
     color: white;
 }
