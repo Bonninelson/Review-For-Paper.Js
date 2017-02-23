@@ -1,6 +1,6 @@
 body {
+  {p color: black}
   margin: 40px;}
-p {color:black;}
 .wrapper {
         display: grid;
     grid-gap: 20px;
