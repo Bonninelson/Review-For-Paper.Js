@@ -4,8 +4,8 @@ body {
 .wrapper {
         display: grid;
     grid-gap: 20px;
-        grid-template-columns: [col1-start] 400px  [col2-start] 400px  [col3-start] 400px [col3-end];
-        grid-template-rows: [row1-start] 600px [row2-start] 600px [row2-end];
+        grid-template-columns: [col1-start] 500px  [col2-start] 500px  [col3-start] 500px [col3-end];
+        grid-template-rows: [row1-start] 700px [row2-start] 700px [row2-end];
         background-color: #009dec;
         color: #e4141b;
     }
